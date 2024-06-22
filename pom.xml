@@ -117,7 +117,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>app.desktop.desktop_app1/app.desktop.desktop_app1.HelloApplication</mainClass>
+                            <mainClass>app.desktop.desktop_app1/app.desktop.MicroFlow.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

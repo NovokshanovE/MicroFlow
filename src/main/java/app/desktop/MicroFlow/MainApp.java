@@ -1,4 +1,4 @@
-package app.desktop.desktop_app1;
+package app.desktop.MicroFlow;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
