@@ -8,7 +8,11 @@ import javafx.scene.control.MenuItem;
 import javafx.scene.layout.BorderPane;
 import javafx.stage.Stage;
 
+/**
+ * App Main class
+ */
 public class MainApp extends Application {
+
 
     @Override
     public void start(Stage primaryStage) {
@@ -54,6 +58,12 @@ public class MainApp extends Application {
         primaryStage.show();
     }
 
+    /**
+     * Test function
+     */
+    public void func(){
+        System.out.println("kdkek");
+    }
     public static void main(String[] args) {
         launch(args);
     }
