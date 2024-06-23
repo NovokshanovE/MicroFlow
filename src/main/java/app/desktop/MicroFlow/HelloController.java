@@ -1,4 +1,4 @@
-package app.desktop.desktop_app1;
+package app.desktop.MicroFlow;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;

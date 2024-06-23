@@ -9,7 +9,8 @@ module app.desktop.desktop_app1 {
     requires org.kordamp.ikonli.javafx;
     requires org.kordamp.bootstrapfx.core;
     requires eu.hansolo.tilesfx;
+    requires com.almasb.fxgl.all;
 
-    opens app.desktop.desktop_app1 to javafx.fxml;
-    exports app.desktop.desktop_app1;
+    opens app.desktop.MicroFlow to javafx.fxml;
+    exports app.desktop.MicroFlow;
 }

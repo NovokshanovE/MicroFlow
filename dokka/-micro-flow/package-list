@@ -1,0 +1,18 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:app.desktop.MicroFlow////PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/index.html
+$dokka.location:app.desktop.MicroFlow/HelloApplication///PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-application/index.html
+$dokka.location:app.desktop.MicroFlow/HelloApplication/HelloApplication/#/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-application/-hello-application.html
+$dokka.location:app.desktop.MicroFlow/HelloApplication/main/#java.lang.String[]/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-application/main.html
+$dokka.location:app.desktop.MicroFlow/HelloApplication/start/#javafx.stage.Stage/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-application/start.html
+$dokka.location:app.desktop.MicroFlow/HelloController///PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-controller/index.html
+$dokka.location:app.desktop.MicroFlow/HelloController/HelloController/#/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-hello-controller/-hello-controller.html
+$dokka.location:app.desktop.MicroFlow/MainApp///PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-app/index.html
+$dokka.location:app.desktop.MicroFlow/MainApp/MainApp/#/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-app/-main-app.html
+$dokka.location:app.desktop.MicroFlow/MainApp/func/#/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-app/func.html
+$dokka.location:app.desktop.MicroFlow/MainApp/main/#java.lang.String[]/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-app/main.html
+$dokka.location:app.desktop.MicroFlow/MainApp/start/#javafx.stage.Stage/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-app/start.html
+$dokka.location:app.desktop.MicroFlow/MainController///PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-controller/index.html
+$dokka.location:app.desktop.MicroFlow/MainController/MainController/#/PointingToDeclaration/-micro-flow/app.desktop.MicroFlow/-main-controller/-main-controller.html
+app.desktop.MicroFlow
+
