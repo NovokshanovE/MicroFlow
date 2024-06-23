@@ -6,7 +6,7 @@ development of a micro service architecture.
 
 ## Documentation
 
-[docs](dokka/index.html)
+[docs](docs/index.html)
 
 
 #### Main objectives:
